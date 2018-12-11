@@ -1,0 +1,21 @@
+ert_main.c.o: ert_main.c untitled.h rtwtypes.h MW_bbblue_driver.h \
+ untitled_types.h rt_nonfinite.h rtGetInf.h untitled_private.h \
+ MW_bbblue_init.h linuxinitialize.h
+
+untitled.h:
+
+rtwtypes.h:
+
+MW_bbblue_driver.h:
+
+untitled_types.h:
+
+rt_nonfinite.h:
+
+rtGetInf.h:
+
+untitled_private.h:
+
+MW_bbblue_init.h:
+
+linuxinitialize.h:

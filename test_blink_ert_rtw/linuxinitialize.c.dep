@@ -1,0 +1,6 @@
+linuxinitialize.c.o: linuxinitialize.c linuxinitialize.h \
+ MW_custom_RTOS_header.h
+
+linuxinitialize.h:
+
+MW_custom_RTOS_header.h:

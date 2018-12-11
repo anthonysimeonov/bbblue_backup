@@ -1,0 +1,17 @@
+test_blink_data.c.o: test_blink_data.c test_blink.h rtwtypes.h \
+ MW_bbblue_driver.h test_blink_types.h rt_nonfinite.h rtGetInf.h \
+ test_blink_private.h
+
+test_blink.h:
+
+rtwtypes.h:
+
+MW_bbblue_driver.h:
+
+test_blink_types.h:
+
+rt_nonfinite.h:
+
+rtGetInf.h:
+
+test_blink_private.h:
